@@ -1,0 +1,86 @@
+﻿No,,Hotkey,Letter,Description,Type
+1,,Ctrl 0,0,Zoom reset,"Directory Opus, Browser"
+2,,Ctrl Alt Shift 0,0,Bọc selected text = ngoặc tròn ( ),AHK
+3,,Win Alt Shift 1,1,mở Photoshop 2017,AHK
+4,,Win Alt Shift 2,2,mở Photoshop 2024,AHK
+5,,Win Alt 9,9,là PrintScreen (AHK),AHK
+6,,Ctrl ',',clone dòng trên trong Excel/ Google sheet và edit,Office
+7,,Ctrl -,-,Zoom out,"Directory Opus, Browser"
+8,,Ctrl -,-,Xoá dòng/ cột trong Excel,Office
+9,,Ctrl .,.,gõ nhanh … (AHK),AHK
+10,,Ctrl Alt Shift .,.,Bọc selected text = ngoặc < >,AHK
+11,,Ctrl Alt ;,;,gõ yyyyMMdd (AHK),AHK
+12,,Ctrl Alt Shift ;,;,gõ yyyyMMdd HH:mm (AHK),AHK
+13,,Ctrl Alt Shift [,[,Bọc selected text = ngoặc vuông [ ],AHK
+14,,Ctrl Alt Shift ],],Bọc selected text = ngoặc nhọn { },AHK
+15,,`,`,close tab như Ctrl W (AHK),AHK
+16,,Ctrl `,`,đóng WinActive như Alt F4 (AHK),AHK
+17,,Win `,`,Capslock OFF (AHK),AHK
+18,,Ctrl =,=,Zoom in,"Directory Opus, Browser"
+19,,Ctrl Shift =,=,Thêm dòng/ cột Excel,Office
+20,,Win =,=,Ghim lên top AlwaysOnTop cho WinActive,AHK
+21,,Alt Shift A,A,mở Anki Flashcard (AHK),AHK
+22,,Ctrl Shift A,A,Mở about:addons (Firefox),Firefox
+23,,Alt Shift B,B,mở BitWarden,AHK
+24,,Alt Shift B,B,"search copied text = Bing kèm keyword ""in english translation""",AHK
+25,,Ctrl Win Shift B,B,"dùng khi màn hình đen xì, đơ lag",Win
+26,,Win B,B,mở Bing search copied text ,AHK
+27,,Backspace,Backspace,Go up,Directory Opus 
+28,,Ctrl Backspace,Backspace,Go to root,Directory Opus 
+29,,Alt Shift C,C,mở Capacities (AHK),AHK
+30,,Win C,C,mở Google search copied text ,AHK
+31,,Capslock,Capslock,là Delete (AHK),AHK
+32,,Win Capslock,Capslock,Capslock ON (AHK),AHK
+33,,Ctrl D,D,clone dòng trên trong Excel/ Google sheet,Office
+34,,Ctrl Shift Del,Del,"Clear All History panel để xoá cache, tăng tốc Firefox (Firefox) ",Firefox
+35,,Shift Del,Del,Delete permanently,Directory Opus 
+36,,Ctrl Alt Down,Down,Minimize WinActive (AHK),AHK
+37,,Alt Shift E,E,mở Edge (AHK),AHK
+38,,Win E,E,mở Windows Explorer mặc định/ Directory Opus ,Directory Opus
+39,,Win Shift E,E,mở Explorer++ ,AHK
+40,,Alt Enter,Enter,mở Properties của selected file,Win
+41,,Shift Enter,Enter,mở Address Bar Go,Directory Opus 
+42,,Alt Shift F,F,mở File Centipede download,AHK
+43,,Ctrl Alt F,F,mở Floorp (DOpus),Directory Opus
+44,,Shift F1,F1,mở Notepad (AHK),AHK
+45,,Shift F2,F2,mở SublimeText (AHK),AHK
+46,,Ctrl F4,F4,Close tab,Directory Opus 
+47,,Ctrl F5,F5,Refresh thumbnail cache,Directory Opus 
+48,,Alt Shift G,G,mở ChatGPT Pake PWA app,AHK
+49,,Win G,G,mở ChatGPT ở default browser,AHK
+50,,Ctrl Alt H,H,highlight seltected text,Office
+51,,Alt Shift I,I,mở IDM,AHK
+52,,Ctrl I,I,mở Win Settings,Win
+53,,Win I,I,"mở Win Emoji, Clipboard panel",Win
+54,,Ctrl L,L,"tới Address Bar (Win, Browser)","Win, Browser"
+55,,Ctrl LeftArrow,LeftArrow,Previous tab,Directory Opus 
+56,,Ctrl Alt LeftMouse,LeftMouse,Minimize WinActive (AHK),AHK
+57,,Ctrl Win LeftMouse,LeftMouse,Minimize AllWindows exclude WinActive,AHK
+58,,Shift LeftMouse,LeftMouse,save nhanh image thay cho Chuột phải > Save image as ở Firefox Edge Chrome,AHK
+59,,Win Alt LeftMouse,LeftMouse,Minimize WinActive (AHK),AHK
+60,,Alt Shift M,M,mở Mullvad browser (AHK),AHK
+61,,Ctrl Alt Shift M,M,mở Menu tổng,AHK
+62,,Alt Shift N,N,mở Notion (AHK),AHK
+63,,Ctrl Alt Shift N,N,Tạo file txt hpa log tại Folder hiện tại (cần copy folder path trước),AHK
+64,,Ctrl Num*,Num*,Restore filter,Directory Opus 
+65,,Ctrl Num+,Num+,Autosize columns,Directory Opus 
+66,,Alt Shift O,O,mở selected file = Notepad++,AHK
+67,,Ctrl Alt O,O,tạo file nhật ký hpa_log ở Folder đã chỉ định trước,AHK
+68,,Alt Shift P,P,"search copied text = Google/Bing kèm keyword ""PRONUNCIATION""",AHK
+69,,Ctrl PageDown,PageDown,Next tab,Directory Opus 
+70,,Ctrl PageUp,PageUp,Previous tab,Directory Opus 
+71,,Win R,R,Run box,Win
+72,,Win R,R,Right Click (AHK),AHK
+73,,Win R,R,là Chuột phải RightMouse,AHK
+74,,Win Shift R,R,capture screenshot,Win
+75,,Ctrl RightArrow,RightArrow,Next tab,Directory Opus 
+76,,Win Shift S,S,capture screenshot,Win
+77,,Ctrl Alt Space,Space,là Esc (AHK),AHK
+78,,Ctrl Space,Space,là Enter (AHK),AHK
+79,,Ctrl Win T,T,tạo Bảng trong Excel,Office
+80,,Win Shift T,T,mở Tablacus,AHK
+81,,Win V,V,"mở Win clipboard, Emoji",Win
+82,,Ctrl W,W,Close tab,Win
+83,,Ctrl Alt Shift Z,Z,mở file/ giải nén = Bandizip,AHK
+84,,Win Shift Z,Z,reload MyAHKv1.ahk Script,AHK
+85,,Win Z,Z,toggle on/off MyAHKv1.ahk Script,AHK
