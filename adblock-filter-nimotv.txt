@@ -1,0 +1,79 @@
+[Adblock Plus 2.0]
+! Version: 202401080101
+! Title: LB NimoTV - chặn rác trên nimo.tv
+! Last modified: 10 Jan 2024 07:56:25 UTC+7
+! Expires: 1 days (update frequency)
+!
+! LB List filter collection
+! Copyright: https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-29244121
+! Homepage: https://github.com/lbpth/backup/tree/adblock
+! License: GPLv3 
+! Please report any unblocked ads or problems by email or in our fanpage
+! Mọi thắc mắc xin gửi về email hoặc fanpage
+! Email: lbpth@hotmail.com
+! Facebook Fanpage: 
+! Forum: 
+! Report new issue on github: https://github.com/lbpth/backup/issues
+
+! ---------- Generic Blocking Rules ---------- =========================================================================================================================================================
+! Ẩn header thanh thể loại
+www.nimo.tv##.game-area-head
+! Ẩn nimo-card-cover và preview
+www.nimo.tv##.nimo-card-cover
+!www.nimo.tv##.nimo-player
+!www.nimo.tv##.nimo-rc_meta__nick-name
+!www.nimo.tv##.controlZindex
+! Ẩn hình nền và banner
+www.nimo.tv##.HeadImg.nimo-room__head-img
+||img.nimo.tv/o/banner/*/l0/img.webp$image
+! Ẩn info của streamer ở Nimo-room Main
+www.nimo.tv##.nimo-rm
+
+! Ẩn thông tin ở khung chat
+! Ẩn khung rank của streamer
+www.nimo.tv##.nimo-room__activity
+www.nimo.tv##.nimo-iframe__wrap
+! Ẩn khung rank của user donate
+www.nimo.tv##.nimo-room__rank
+! Ẩn User vào room và quà donate ở phía trên khung chat
+www.nimo.tv##.chat-room__enter_banner
+www.nimo.tv##.nimo-gift-banner
+www.nimo.tv##.swiper-container
+!www.nimo.tv##.n-as-abs.nimo-room__pay-chat-top-message-list.swiper-container-pointer-events.swiper-container-horizontal.swiper-container-initialized.swiper-container
+! Ẩn hiển thị trứng và thông tin user trúng thưởng ở khung chat
+!www.nimo.tv##.nimo-room__chatroom__box-gift
+www.nimo.tv##.nimo-popover
+!www.nimo.tv##[src="https://img.nimo.tv/o/banner/FA594DC3E0032D815464AD133760E769_daojishi.png/w152_l0/img.png"]
+!www.nimo.tv##.nimo-box-gift__box__cd
+!www.nimo.tv##[src="https://img.nimo.tv/o/banner/CA1F83CD61A6CBB290299AB8B9448A9_kelingqu.png/w152_l0/img.png"]
+!www.nimo.tv##.nimo-box-gift__box__btn
+www.nimo.tv##.nimo-box-gift__winner-msg
+www.nimo.tv##.tips
+! Ẩn tin nhắn donate, user vào room/share/follow/
+www.nimo.tv##.UserEnterRoomMessageItem
+www.nimo.tv##.chatroomShareComp-container
+www.nimo.tv##.n-fx-sc.n-as-mrgh.n-as-mrgv-xs
+www.nimo.tv##.n-as-mrgh.n-as-mrgv-xs
+www.nimo.tv##.n-as-mrgh.n-as-mrgb.nimo-room__chatroom__message-item
+www.nimo.tv##.n-as-mrg-xs
+!www.nimo.tv##.n-as-vtm
+!www.nimo.tv##.nimo-room__chatroom__message-item__info n-as-inline-block
+!www.nimo.tv##.c3.n-as-break-word.nimo-room__chatroom__message-item__content.content
+! Ẩn donate KC để hiện chat của user hoặc User lên cấp vé fan
+!www.nimo.tv##.n-as-fs12.n-as-rnd-lg.n-as-mrgh-xxs.n-as-mrgv-xs.nimo-room__pay-chat-message-item
+! Ẩn dòng System Message đầu tiên ở khung chat
+www.nimo.tv##div.nimo-room__chatroom__message-item:nth-of-type(1)
+! Ẩn trang trí tên user
+www.nimo.tv##.nimo-cr_decoration
+www.nimo.tv##.nimo-room__chatroom__message-item__info-colon
+! Ẩn khung chat Nimo
+!www.nimo.tv##.nimo-scrollbar.n-as-scroll
+www.nimo.tv##.n-fx-col.n-fx-bn.n-as-pad > .n-fx-bc
+www.nimo.tv##.ChatModeTip-container
+
+!www.nimo.tv##.nimo-bg-base
+!www.nimo.tv##.nimo-room__main__container
+!www.nimo.tv##.mini-player-wrapper
+!www.nimo.tv##.MessageList
+!www.nimo.tv##.top-message-list
+!www.nimo.tv##.chat-box-container
